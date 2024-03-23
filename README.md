@@ -1,5 +1,1 @@
-# LOGO
-
-Landing page
--react
--react-icons
+# social app -1
